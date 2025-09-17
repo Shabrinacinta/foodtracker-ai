@@ -1,0 +1,13 @@
+# Ide Proyek Food Nutrition Tracker AI
+
+Aplikasi deteksi dan pemantauan kandungan makanan berbasis AI.  
+
+## Target
+- Membantu masyarakat Indonesia memahami kandungan gizi makanan.
+- Meningkatkan kesadaran pola makan sehat.
+
+## Rencana Awal
+- Input foto makanan.
+- AI mendeteksi jenis makanan.
+- Estimasi kalori & nutrisi utama.
+- Simpan log makanan harian.
